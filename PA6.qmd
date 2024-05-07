@@ -1,5 +1,6 @@
 ---
 title: "PA6"
+author: Vanessa, Fiona, Jerry, Naomi
 format: html
 editor: visual
 embed-resources: true
