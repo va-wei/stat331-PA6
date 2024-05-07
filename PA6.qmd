@@ -1,5 +1,6 @@
 ---
 title: "PA6"
+author: "Jerry Huo, Naomi Nayman, Fiona Chin, Vanessa Wei"
 format: html
 editor: visual
 embed-resources: true
